@@ -37,6 +37,7 @@
     "globals": "*",
     "typescript": "*",
     "typescript-eslint": "*",
-    "vite": "*"
+    "vite": "*",
+    "@eslint/js": "*"
   }
 }
